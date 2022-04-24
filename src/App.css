@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  width: 300px;
+  height: 200px;
+  border: 1px solid rgb(106, 104, 104);
+  margin: 100px auto;
+  margin-top: 0;
+  background-color: #f75a51;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+body{
+  background-color: rgb(227, 230, 231);
+}
+h1{
+  text-align: center;
+  color: red;
+}
+h3{
+  border: 1px solid rgb(106, 104, 104);
+  border-radius: 50px;
+  color: red;
+padding: 20px 10px;
+width: 150px;
+margin: 25px auto;
+background-color: #f5ecec;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+button {
+  font-size: 16px;
+  background-color: #e9d3a3;
+  color: rgb(200, 27, 27);
+  border-radius: 8px;
+  border: none;
+  padding: 10px 12px;
+  text-align: center;
+  grid-gap: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #e8ac2b;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+
+
